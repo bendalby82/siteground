@@ -1,2 +1,2 @@
-# siteground
-An example basic HTML web site plus action to publish
+# GitHub, DevOps and SiteGround
+A very simple web site to accompany the Medium article.
